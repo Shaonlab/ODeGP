@@ -6,6 +6,8 @@
 
 **O**scillation **De**tection with **G**aussian **P**rocesses
 
+An R package for detecting oscillations, described in detail at [https://doi.org/10.1093/bioinformatics/btad602](https://doi.org/10.1093/bioinformatics/btad602).
+
 ## Installation
 
 If not installed, R can be downloaded from the [CRAN](https://cran.r-project.org/) homepage. RStudio is available for download [here](https://posit.co/products/open-source/rstudio/). A detailed guide to installation of both R and RStudio can be found on [this](https://rstudio-education.github.io/hopr/starting.html) webpage.
